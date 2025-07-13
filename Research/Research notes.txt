@@ -1,0 +1,28 @@
+Temperature sensors:
+
+-There are four main temperature sensors used today in modern-day electronics: 
+-Negative temperature coefficient (NTC) thermistors, 
+-resistance temperature detectors (RTDs), 
+-thermocouples, 
+-and semiconductor-based integrated (IC) sensors.
+
+
+----------------------------------------------------------
+
+Pressure sensors:
+
+Currently widely used pressure sensors include: 
+-diffused silicon piezoresistive pressure sensors, 
+-ceramic piezoresistive pressure sensors, 
+-sputtered film pressure sensors, 
+-capacitive pressure sensors, 
+-and sapphire pressure sensors with high temperature resistance.
+
+-----------------------------------------------------------------
+Flow Sensor
+
+Positive Displacement Flow Meters. 
+-Turbine Flow Meters. 
+-Open Channel Flow Meters. 
+-Variable Area Flow Meters. 8 de mar. de 2024
+
