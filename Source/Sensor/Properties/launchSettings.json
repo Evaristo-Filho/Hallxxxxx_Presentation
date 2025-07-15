@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Sensor": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
