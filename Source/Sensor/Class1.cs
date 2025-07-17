@@ -6,11 +6,17 @@ using System.Threading.Tasks;
 
 namespace Sensor
 {
-    public class Class1
+    public class SensorArray
     {
 
         public static int Main()
         {
+            Sensor[] sen  = new Sensor[10];
+            sen[0]=new Sensor();
+            sen[1]=new Sensor();
+            
+            while (true) {  };
+            
             return 100;
         }
 
@@ -20,11 +26,3 @@ namespace Sensor
 }
 
 
-public interface SensorOutput
-{
-    public void Current();
-    public void Resistence();
-    public void Frequency();
-    public void Voltage();
-
-}
