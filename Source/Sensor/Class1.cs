@@ -11,12 +11,18 @@ namespace Sensor
 
         public static int Main()
         {
-            Sensor[] sen  = new Sensor[10];
-            sen[0]=new Sensor();
-            sen[1]=new Sensor();
-            
-            while (true) {  };
-            
+            Sensor[] sen = new Sensor[10];
+            sen[0] = new Sensor();
+            sen[1] = new Sensor();
+            sen[2] = new Sensor();
+
+
+
+
+
+            while (true) { }
+            ;
+
             return 100;
         }
 
